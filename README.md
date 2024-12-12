@@ -6,6 +6,17 @@ Simple voice assistant that can speak Ukrainian using Google Text-to-Speech (gTT
 - Text-to-speech in Ukrainian
 - Predefined responses for common phrases
 - Random response selection
-- Clean temporary audio file management
+- Temporary audio file management
 
-py main.py
+## Installation
+
+1. Install required packages:
+```bash
+pip install gTTS
+pip install pyttsx3
+pip install SpeechRecognition
+pip install openai==0.28
+pip install pygame
+pip install pyaudio
+```
+2. python main.py
