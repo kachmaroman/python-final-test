@@ -19,4 +19,7 @@ pip install openai==0.28
 pip install pygame
 pip install pyaudio
 ```
-2. python main.py
+2. Run
+```bash
+python main.py
+```
