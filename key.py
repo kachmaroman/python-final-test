@@ -1,1 +1,1 @@
-key = "{KEY-HERE"
+key = "{KEY-HERE}"
